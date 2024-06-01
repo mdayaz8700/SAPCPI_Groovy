@@ -1,1 +1,0 @@
-SAP CPI groovy scripts
